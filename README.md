@@ -12,7 +12,7 @@ Hello! My name is Ryan and I'm a CS student at Purdue University, passionate abo
 
 - 📯 I've been playing french horn for about 8 years now, and I currently play as a part of the Purdue Wind Ensemble and Boiler Brass.
 - 💻 I love learning through trying something new, and I've built full-stack web apps tailored to issues that I've found in things I enjoy. 
-- 🎓 I help teach a course at Purdue (CS193), and I enjoy helping new students get started with CS, as well as help them feel like they belong, especially as a student that came from out of state.
+- 🎓 I help teach a course at Purdue (CS193), and I enjoy helping new students get started with CS and feel like they belong
 
 ---
 
